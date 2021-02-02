@@ -127,6 +127,10 @@
 
 这样你就完成了手动更新操作！
 
+## 历史STAR
+
+![](http://starchart.cc/GamerNoTitle/bilibiliJudge.svg)
+
 ## 免责声明
 
 学习项目，请勿滥用！如果有因滥用造成的封号、删除账户等情况或违反相关法律所造成的责任，本人拒不承担！
