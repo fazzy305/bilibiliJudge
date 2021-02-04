@@ -4,13 +4,14 @@
 
 如果你不是风纪委员，在符合风纪委员申请条件的情况下，本脚本会自动帮你申请
 
-投票时间是早上8点到晚上22点每小时一次，如果有需要请自行修改`.github/workflows/Judge.yml`中的时间，时间是UTC时区的时间，需要将时位+8才是北京时间
+为了让其他风纪委员避免因为脚本而没有案子判，本脚本的投票时间是早上8点到晚上22点每小时一次，如果有需要请自行修改`.github/workflows/Judge.yml`中的时间，时间是UTC时区的时间，需要将时位+8才是北京时间
 
 ## 免责声明
 
 学习项目，请勿滥用！如果有因滥用造成的封号、删除账户等情况或违反相关法律所造成的责任，本人拒不承担！
 
 ## 赞助
+
 点击下面的Badge其中一个就可以跳转到相应页面，感谢老板的支持！
 
 <a href="https://afdian.net/@GamerNoTitle"><img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-GamerNoTitle-%238e8cd8?style=for-the-badge" alt="前往爱发电赞助" width=auto height=auto border="0" /></a> <a href="https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@master/img/Donate/WeChatPay.png"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98-GamerNoTitle-%2304BE02?style=for-the-badge" alt="使用微信赞助" width=auto height=auto border="0" /></a> <a href="https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@master/img/Donate/AliPay.jpg"><img src="https://img.shields.io/badge/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98-GamerNoTitle-%231678FF?style=for-the-badge" alt="使用支付宝赞助" width=auto height=auto border="0" /></a>
