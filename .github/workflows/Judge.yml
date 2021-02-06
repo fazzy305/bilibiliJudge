@@ -10,7 +10,11 @@ on:
   #  branches: 
   #    - master
   schedule:
+<<<<<<< HEAD
     - cron: "0 4-14 * * *" # 中午12点到晚上22点每小时运行
+=======
+    - cron: "0 4-14 * * *" # 早上十二点到晚上十点每小时一次
+>>>>>>> 89fa75fad33c671fbacad532f4068dad0013decf
   watch:
     types: [started]
    
